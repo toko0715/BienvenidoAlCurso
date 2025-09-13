@@ -40,6 +40,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.bienvenidoalcurso.ui.theme.BienvenidoAlCursoTheme
 
+// ALGUNOS IMPORTS SON INUTILES SE ME COLARON DEL ANTERIOR PROBLEMA
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
